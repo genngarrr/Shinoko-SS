@@ -36,7 +36,7 @@
 - Kill Aura 
 - Dumb Enemies
 
-
+Support Global/JP/CN version game
 
 
 
