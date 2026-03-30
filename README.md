@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/genngarrr/Shinoko-SS/blob/main/c15baf553bcc7d5c.png" width="320"/>
+<img src="https://github.com/genngarrr/Shinoko-SS/blob/main/cool.png" width="320"/>
 
 # Shinoko-SS
 
